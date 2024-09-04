@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello there!👋 I'm André Silva <img align="right" alt="Andre-Obi-Wan" height="120" src="https://cdn.discordapp.com/attachments/1126262717695672392/1281022681017221150/tumblr_0c36135266370f77850d45d582f80928_3c384055_540.webp?ex=66da34d7&is=66d8e357&hm=bca39fb9c0df0383e409688988129272463ec302e34d50a40cbaeaffd9e984ae&">
+  Hello there!👋 I'm André Silva <img align="center" alt="Andre-Obi-Wan" height="120" src="https://cdn.discordapp.com/attachments/1126262717695672392/1281022681017221150/tumblr_0c36135266370f77850d45d582f80928_3c384055_540.webp?ex=66da34d7&is=66d8e357&hm=bca39fb9c0df0383e409688988129272463ec302e34d50a40cbaeaffd9e984ae&">
 </h2>
 
 <div align="center">
